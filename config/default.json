@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://loveapur:147852369@cluster0-05adc.mongodb.net/Mern2019?retryWrites=true&w=majority",
+  "jwtSecret": "Secret"
+}
